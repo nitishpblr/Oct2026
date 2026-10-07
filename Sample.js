@@ -9,3 +9,9 @@ function sub(a, b) {
 }
 
 sub(20, 10)
+
+function mul(a, b) {
+    console.log(a * b)
+}
+
+mul(20, 10)
