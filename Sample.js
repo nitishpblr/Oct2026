@@ -5,7 +5,13 @@ function add(a, b) {
 add(20, 10)
 
 function sub(a, b) {
-    console.log(a * b)
+    console.log(a - b)
 }
 
 sub(20, 10)
+
+function mul(a, b) {
+    console.log(a * b)
+}
+
+mul(20, 10)
